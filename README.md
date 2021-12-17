@@ -1,6 +1,6 @@
 [![Header](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)]()
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/devjoi2018)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/joinnerDev)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joinner-medina-45705b41/)
 
 &nbsp;
@@ -53,5 +53,5 @@ I'm Joinner I'm a __Flutter developer__, seeking to solve __real-world problemsð
 </p>
 
 ---
-
-<img width="60%" alt="Joinner github stats" src="https://github-readme-stats.vercel.app/api?username=devjoi2018&show_icons=true&hide_border=true" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joinnerDev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p><img width="60%" alt="Joinner github stats" src="https://github-readme-stats.vercel.app/api?username=joinnerDev&show_icons=true&hide_border=true" /></p>
